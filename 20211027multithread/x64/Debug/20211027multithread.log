@@ -1,0 +1,6 @@
+﻿  20211027multithread.cpp
+C:\Users\82109\Desktop\School\시스템프로그래밍\2017440104이승훈\20211027multithread\20211027multithread.cpp(27,22): warning C4312: '형식 캐스트': 'int'에서 더 큰 'LPVOID'(으)로의 변환입니다.
+C:\Users\82109\Desktop\School\시스템프로그래밍\2017440104이승훈\20211027multithread\20211027multithread.cpp(31,52): warning C4312: '형식 캐스트': 'int'에서 더 큰 'LPVOID'(으)로의 변환입니다.
+C:\Users\82109\Desktop\School\시스템프로그래밍\2017440104이승훈\20211027multithread\20211027multithread.cpp(49,20): warning C4311: '형식 캐스트': 'LPVOID'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\82109\Desktop\School\시스템프로그래밍\2017440104이승훈\20211027multithread\20211027multithread.cpp(49,20): warning C4302: '형식 캐스트': 'LPVOID'에서 'int'(으)로 잘립니다.
+  20211027multithread.vcxproj -> C:\Users\82109\Desktop\School\시스템프로그래밍\2017440104이승훈\x64\Debug\20211027multithread.exe
